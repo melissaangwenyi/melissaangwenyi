@@ -24,6 +24,7 @@ Python · Flask · SQLite · MySQL · JavaScript · C++ · SQL · Tkinter · Lin
 ## Education
 
 Bachelor of Science in Computer Science - University of Nairobi
+
 Certificate in Software Development - Modcom Institute of Technology
 
 ## Contact
